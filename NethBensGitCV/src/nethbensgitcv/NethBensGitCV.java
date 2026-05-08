@@ -14,8 +14,7 @@ public class NethBensGitCV {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       //primer comentario de ejemplo
-       
+        // TODO code application logic here
     }
     
 }
